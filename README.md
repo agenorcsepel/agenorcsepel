@@ -2,7 +2,7 @@
 - :adhesive_bandage: We are a nonprofit organization to foster animals primarily on Budapest (Csepel), Hungary
 - 📫 How to reach me: agenorcsepel@gmail.com
 
-<div align="center"><img src="agenorcsepel_nametag.png" width="50%"/></div>
+<div align="center"><img src="agenorcsepel_nametag.png" width="65%"/></div>
 
 <!-- ![Alt text](agenorcsepel_nametag.png "Instagram QR")-->
 
